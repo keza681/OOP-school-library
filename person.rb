@@ -1,7 +1,6 @@
 Require './nameable'
 
 class Person < Nameable
-
   attr_reader :id
   attr_accessor :name, :age
 
@@ -20,7 +19,7 @@ class Person < Nameable
   def correct_name
     @name
   end
-  
+
   private
 
   def of_age?
