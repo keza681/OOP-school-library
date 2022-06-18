@@ -10,3 +10,4 @@ class Teacher < person
     true
   end
 end
+
