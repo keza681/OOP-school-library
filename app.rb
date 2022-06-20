@@ -10,6 +10,7 @@ class App
     @books = []
     @people = []
     @rentals = []
+    @class = Classroom.new('Grade 5')
   end
 
   def all_booklist
@@ -63,14 +64,9 @@ class App
     print 'Parent permission [Yes or No]: '
     parent_permission = gets.chomp.downcase
 
-    case parent_permission
-    when 'no'
-      student = Student.new(age, name, parent_permission: false)
-      @people.push(student)
-    when 'yes'
-      student = Student.new(age, name, parent_permission: true)
-      @people.push(student)
-    end
+    student = Student.new(age, @class, name, parent_permission: parent_permission)
+    @people << student
+
     puts 'New student was created successfully'
   end
 
