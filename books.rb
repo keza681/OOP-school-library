@@ -27,4 +27,3 @@ class Books
     puts 'New book item was successfully created'
   end
 end
-In books.rb

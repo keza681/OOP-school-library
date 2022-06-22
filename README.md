@@ -32,9 +32,9 @@ irb
 - Twitter: [Visit my twitter](https://twitter.com/LKeza19)
 - LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/linda-keza)
 
-👤 **Ayoub Chahir**
+GitHub👤 **Ayoub Chahir**
 
-- GitHub: [@AyoubMS](https://github.com/AyoubMs)
+- : [@AyoubMS](https://github.com/AyoubMs)
 - Twitter: [@KnowledgeUserD](https://twitter.com/KnowledgeUserD)
 - LinkedIn: [Ayoub Chahir](https://www.linkedin.com/in/ayoub-chahir/)
 
