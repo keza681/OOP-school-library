@@ -60,7 +60,7 @@ describe Book do
 
   context 'Given a hash representation' do
     it 'generate a book object from it' do
-      hash = { 'class' => Book, 'title' => 'my book', 'author' => 'Soufiane'}
+      hash = { 'class' => Book, 'title' => 'my book', 'author' => 'Soufiane' }
 
       book = Book.create_from_hash(hash)
 

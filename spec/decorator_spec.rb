@@ -32,5 +32,4 @@ describe Decorator do
       expect(decorator.correct_name).to equal(person.correct_name)
     end
   end
-
 end
