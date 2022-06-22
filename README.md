@@ -28,9 +28,8 @@ irb
 
 👤 **Keza**
 
-- GitHub: [Visit my github](https://github.com/keza681)
-- Twitter: [Visit my twitter](https://twitter.com/LKeza19)
-- LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/linda-keza)
+- GitHub:  [Visit my github](https://github.com/keza681)
+- LinkedIn:  [Linkedin Profile](https://www.linkedin.com/in/linda-keza)
 
 👤 **Ayoub Chahir**
 
