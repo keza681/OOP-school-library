@@ -3,7 +3,6 @@ require 'person'
 require 'classroom'
 
 class Student < Person
-
   def initialize(age, name = 'Unknown',
                  # rubocop:todo Lint/UnusedMethodArgument
                  classroom = Classroom.new('default_classroom'), parent_permission: true, id: nil)
